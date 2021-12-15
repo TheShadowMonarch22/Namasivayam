@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* profile */
+#profile {
+  padding: 30px;
+}
+.name {
+  padding: 20px;
+}
+
+.face {
+  height: 100%;
+}
+/* .hire {
+  display: flex;
+  display: inline-flexbox;
+  align-content: space-between;
+} */
+
+#role {
+  padding-left: 40px;
+
+  margin-bottom: 0;
+}
+
+.list {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+/* quali */
+
+#quali {
+  padding: 30px;
+}
+
+.table {
+  margin-top: 40px;
+}
+/* footer */
+#footer {
+  text-align: center;
+  padding: 30px;
+}
+.ico {
+  padding: 20px 20px;
+  margin-bottom: 0;
+  /* color: black; */
+}
+/* .ico:hover {
+  color: rgb(2, 22, 29);
+} */
